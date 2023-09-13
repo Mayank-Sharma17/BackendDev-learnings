@@ -17,3 +17,4 @@ EJS is just like having a little JS module that can run js code inside a html fi
 - _%> ‘Whitespace Slurping’ ending tag, removes all whitespace after it
 
 ### [Official EJS Docs](https://ejs.co/#docs)
+### [How to use EJS to template your Node.js application - Blog](https://blog.logrocket.com/how-to-use-ejs-template-node-js-application/)
