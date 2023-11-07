@@ -1,0 +1,11 @@
+1699016838171: GET: /api/users
+1699016909020: GET: /api/users/1001
+1699017020157: GET: /api/users/1001
+1699017056331: GET: /api/users/1001
+1699017145499: ::1: GET: /api/users/1001
+1699018129974: ::1: GET: /api/users
+1699018153952: ::1: GET: /api/users
+1699101762502: ::1: POST: /api/users
+1699102146241: ::1: POST: /api/users
+1699103018321: ::1: GET: /users
+1699103019095: ::1: GET: /favicon.ico

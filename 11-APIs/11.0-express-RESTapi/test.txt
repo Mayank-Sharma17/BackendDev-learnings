@@ -1,0 +1,5 @@
+How MongoDB work
+
+- So we have a Schema - Define the Structure
+    using Schema - we make Model
+    using Model we do CRUD Operations

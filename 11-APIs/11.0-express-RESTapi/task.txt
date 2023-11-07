@@ -1,0 +1,21 @@
+REST API - JSON
+
+GET /users - HTML Document Render ✅
+GET /api/users - List all user json ✅
+
+GET /api/users/1 - get the user with ID 1 ✅
+GET /api/users/2 - get the user with ID 2 ✅
+
+POST /api/users - Create new user ✅
+
+Assignment:
+
+PATCH /api/users/1 - Edit the user with ID 1 ☑️
+
+DELETE /api/users/1 - Delete the user with ID 1 ☑️
+
+****************************************************************************************************
+
+CODE REFACTOR - MVC Pattern (Model View Controller)
+basically we segregate our code into different files and folders
+Controller will manipulate model and model then update the views
